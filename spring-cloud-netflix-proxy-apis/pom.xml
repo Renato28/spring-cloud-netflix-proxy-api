@@ -75,4 +75,13 @@
 <!-- 		<module>belgica</module> -->
 <!-- 	</modules> -->
 
+	<modules>
+		<module>argentina</module>
+		<module>zuul</module>
+		<module>brasil</module>
+		<module>eurekaServer</module>
+		<module>belgica</module>
+		<module>japao</module>
+		<module>holanda</module>
+	</modules>
 </project>
